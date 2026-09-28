@@ -1,0 +1,17 @@
+# Maven build artifacts
+gym/target/
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS metadata
+.DS_Store
+Thumbs.db
